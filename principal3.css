@@ -1,0 +1,29 @@
+.flexbox{
+    display: flex;
+    border: 4px groove rgb(0, 255, 0);
+    background-color: rgb(201, 175, 60);
+    padding: 15px;
+    width: 75%;
+}
+#uno{
+    padding: 55px;
+    margin: 50px;
+    background-color: rgb(60, 30, 167);
+}
+#dos{
+    padding: 55px;
+    margin: 50px;
+    background-color: rgb(192, 13, 247);
+}
+#tres{
+    padding: 55px;
+    margin: 50px;
+    background-color: rgb(170, 206, 41);
+}
+
+#cuatro{
+    padding: 55px;
+    margin: 50px;
+    background-color: rgba(255, 0, 234, 0.76);
+}
+
